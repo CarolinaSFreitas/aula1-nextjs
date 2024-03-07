@@ -1,14 +1,14 @@
 # Aula01 - NextJS
 Primeira aula de Linguagens de Programação Emergentes - NextJS
 
-## Criando um projeto
+## 🛠️ Criando um projeto
 1. `` npm install -g npm@10.5.0 ``
 2. `` npx create-next-app@latest <aula1> ``
 3. `` cd <aula1> ``
 4. `` npm run dev ``
 5. http://localhost:3000/ 
 
-## Hello World
+## 🌎 Hello World
 - Em layout.tsx:
 ````
 import type { Metadata } from "next";
@@ -44,3 +44,5 @@ export default function Home() {
   );
 }
 ````
+- Saída:
+![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/079308f4-6587-4af8-b682-a3f9910a72c2)
