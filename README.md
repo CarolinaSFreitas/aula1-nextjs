@@ -46,3 +46,8 @@ export default function Home() {
 ````
 - Saída:
 ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/079308f4-6587-4af8-b682-a3f9910a72c2)
+
+## Tailwind CSS:
+- Em "global.css"
+- `` CTRL + Shift + P ``, "Change Language Model" e seleciona o Tailwind
+
