@@ -8,6 +8,16 @@ Primeira aula de Linguagens de Programação Emergentes - NextJS
 4. `` npm run dev ``
 5. http://localhost:3000/ 
 
+# Os arquivos:
+
+1. "page.tsx" renderiza a página e esse arquivo quando dentro de pastas cria uma rota, como por exemplo http://localhost:3000/Produtos
+   ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/978f3991-15d6-4041-aa06-1ec048e5f979)
+   
+*obs: esses outros arquivos page.tsx precisa ser criado dentro do diretório do "src\app"*
+
+3. "page.tsx" dentro da pasta padrão que é criada no `` npx create `` reune os componentes criados 
+
+
 ## 🌎 Hello World
 - Em layout.tsx:
 ````
