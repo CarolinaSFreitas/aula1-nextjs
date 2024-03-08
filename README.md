@@ -70,13 +70,14 @@ export default function Home() {
   
 ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/e2cff08e-265a-495d-b15d-a387fbdf68d6)
 
-- Uso do componente no layout.tsx:
+- Uso do componente no layout.tsx, dentro do `` <body> ``, acima do `` {children} ``:
 
-![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/c1981ca9-3a44-426e-b19e-90829799111c)
+![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/1751fe49-7ee5-464c-8f0b-a48a3afebdb2)
 
-- Bootstrap de Tailwind: **Flowbite**. Substituindo o que tem no componente do <Titulo />, cola os componentes do Flowbite e adiciona o componente no "layout.tsx"
+
+- Bootstrap de Tailwind: **Flowbite**. Substituindo o que tem no componente do `` <Titulo /> ``, cola os componentes do Flowbite e adiciona o componente no "layout.tsx"
 ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/3c257a9e-4ac7-4f69-ab4d-a6428bfe03f1)
-![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/7796dd13-8326-41e3-be50-1233bb6884b1)
+![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/6f9f2933-2718-424d-87c8-0cfe511d6e92)
 ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/7ecc7adb-b569-4806-b924-7ea3f18c503d)
 
 Esse componente de Título vai ser "fixado" em todas as rotas 
@@ -85,7 +86,8 @@ Esse componente de Título vai ser "fixado" em todas as rotas
 ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/694d1bbe-4249-4b73-a680-a91d7d9b986a)
 
 - Para adicionar detalhes num item, exemplo na rota "/produtos" para ela ter detalhes de um produto, cria-se uma pasta com uma sub-pasta com esse formato: **"[id]"**, que é uma variável. Então, na rota tendo esse parâmetro variável vai trazer os detalhes do produto com o id definido, ou qualquer outro tipo de variável.
-  ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/51f32afc-3bc1-48cc-94cd-90a5f8d8f8ec)
-  ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/c5d97061-b005-49a3-a3c3-9dd95129e015)
+
+  ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/5236b6a6-9b1d-4c3e-a152-aebbd4b32fe2)
+
 
 - O nome das pastas não podem iniciar com letra maiúscula 
