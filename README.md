@@ -62,6 +62,8 @@ export default function Home() {
 - Em "global.css"
 - `` CTRL + Shift + P ``, "Change Language Model" e seleciona o Tailwind
 
+#
+
 ### 📝 Notas:
 
 - Nunca um componente pode ter mais de uma tag, pra fazer isso precisa encapsular (com uma div por exemplo). Exemplo criando componente de "Título":
