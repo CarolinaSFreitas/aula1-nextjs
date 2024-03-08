@@ -89,5 +89,5 @@ Esse componente de Título vai ser "fixado" em todas as rotas
 
   ![image](https://github.com/CarolinaSFreitas/aula1-nextjs/assets/99994934/5236b6a6-9b1d-4c3e-a152-aebbd4b32fe2)
 
-
-- O nome das pastas não podem iniciar com letra maiúscula 
+- O nome das pastas não podem iniciar com letra maiúscula
+- Flowbite: https://flowbite.com/docs/getting-started/quickstart/
